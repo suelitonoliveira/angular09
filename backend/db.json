@@ -16,9 +16,9 @@
       "price": 5000
     },
     {
+      "id": 4,
       "name": "Geladeira",
-      "price": "2000",
-      "id": 4
+      "price": "2000"     
     }
   ]
 }
