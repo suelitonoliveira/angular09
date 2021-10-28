@@ -13,17 +13,7 @@
     {
       "id": 3,
       "name": "Notebook Samsung",
-      "price": 5000
-    },
-    {
-      "id": 4,
-      "name": "Mesa de Canto",
-      "price": "2000"
-    },
-    {
-      "id": 5,
-      "name": "Outro Produto",
-      "price": "44774848"
+      "price": "5001"
     }
   ]
 }
